@@ -1,0 +1,22 @@
+{
+  "name": "night-stormvs",
+  "displayName": "Dark VsPen",
+  "description": "Vs Code Dark Theme inspired by webstrom IDE Dark & Codepen online editor",
+  "version": "0.0.1",
+  "icon": "images/code.png",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Storm VS Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Storm VS Code-color-theme.json"
+      }
+    ]
+  }
+}
