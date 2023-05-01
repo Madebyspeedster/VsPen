@@ -566,6 +566,12 @@
       "settings": {
         "foreground": "#EEFFFF"
       }
+    },
+    {
+      "scope": ["punctuation.accessor", "meta.template.expression"],
+      "settings": {
+        "foreground": "#EEFFFF"
+      }
     }
   ]
 }
