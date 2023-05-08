@@ -19,7 +19,7 @@
       "name": "Variables",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#eee"
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#eee"
       }
     },
     {
@@ -61,7 +61,8 @@
         "keyword.control",
         "constant.other.color",
         "keyword.other.template",
-        "keyword.other.substitution"
+        "keyword.other.substitution",
+        "keyword.other"
       ],
       "settings": {
         "foreground": "#cc99cd"
@@ -75,7 +76,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#71f095"
       }
     },
     {
@@ -235,7 +236,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#92d0ea"
       }
     },
     {
