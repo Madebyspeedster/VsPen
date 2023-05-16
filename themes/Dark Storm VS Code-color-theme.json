@@ -1,8 +1,8 @@
 {
   "name": "Dark Storm VS Code",
   "colors": {
-    "editor.background": "#2c2927",
-    "sideBar.background": "#22201e",
+    "editor.background": "#202020",
+    "sideBar.background": "#202020",
     "editor.foreground": "#eeffff",
     "sideBarTitle.foreground": "#5fad49",
     "editorBracketMatch.background": "#55ebf86e"

@@ -2,9 +2,10 @@
   "name": "night-stormvs",
   "displayName": "Dark VCPen",
   "description": "Vs Code Dark Theme inspired by webstrom IDE Dark & Codepen online editor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "ngspeedster",
   "icon": "images/code.png",
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/Madebyspeedster/VsPen"
   },
